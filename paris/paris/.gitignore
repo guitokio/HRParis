@@ -1,0 +1,12 @@
+/bin/
+
+.classpath
+.project
+.settings/*
+project/project/*
+project/target/*
+target/*
+.cache-main
+project/build.properties
+*.log
+*~
